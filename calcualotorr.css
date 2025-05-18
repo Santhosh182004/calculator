@@ -1,0 +1,18 @@
+.button{
+    color:coral;
+    background-color: black;
+    border-radius: 4px;
+    border-color:brown;
+    border-style:dashed;
+    padding:5px;
+    font-family:monospace;
+    font-size:10px;
+}
+
+body
+{
+   background-color:lightgreen;
+   height:10px;
+   width:10px;
+   background-size:cover;
+}
